@@ -46,6 +46,20 @@
                 "webp": "3_low.webp",
                 "legacy": "3_low.png"
             }
+        },
+        {
+            "src": {
+                "webp": "4.webp",
+                "legacy": "4.png"
+            },
+            "preview": {
+                "webp": "4_low.webp",
+                "legacy": "4_low.png"
+            },
+            "example": {
+                "webp": "4_low.webp",
+                "legacy": "4_low.png"
+            }
         }
     ]
 }
